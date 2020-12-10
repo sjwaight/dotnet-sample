@@ -10,7 +10,7 @@ languages:
 
 # Sample ASP.NET Core application for GitHub Actions
 
-For all samples to set up GitHub workflows, see [Create your first workflow](https://github.com/Azure/actions-workflow-samples
+For all samples to set up GitHub workflows, see [Create your first workflow](https://github.com/Azure/actions-workflow-samples).
 
 # Steps to create an End-to-End CI/CD Workflow
 
